@@ -1,4 +1,3 @@
-
 /*
   Jenkins Client 
  */
@@ -15,7 +14,7 @@ char serverName[] = "XX.XX.XX.XX";
 
 int numProjects = 1;
 String projects[] = {
-  "drive-prj-build-regular"
+  "XXXXXXXXXX"
 };
 
 // Initialize the Ethernet client library
